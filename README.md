@@ -1,3 +1,4 @@
+#Inventory Management System
 Development of Inventory Management system using .NET 8 Blazor Web App with Interactive Server Render Mode.
  overview of this system :
   1. .NET 8 Clean Architecture
