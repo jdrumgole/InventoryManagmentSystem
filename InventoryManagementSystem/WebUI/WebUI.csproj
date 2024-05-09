@@ -27,5 +27,10 @@
 		<PackageReference Include="Syncfusion.Blazor.Themes" Version="25.1.35" />
 	</ItemGroup>
 	
+	<ItemGroup>
+	  <ProjectReference Include="..\Application\Application.csproj" />
+	  <ProjectReference Include="..\infrastructure\infrastructure.csproj" />
+	</ItemGroup>
+	
 
 </Project>
