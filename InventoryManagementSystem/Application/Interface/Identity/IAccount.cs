@@ -4,7 +4,7 @@ using Application.DTO.Response.Identity;
 using Application.DTO.Resquest.ActivityTracker;
 using Application.DTO.Resquest.Identity;
 
-namespace Application.Interface
+namespace Application.Interface.Identity
 {
     public interface IAccount
     {
